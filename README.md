@@ -1,3 +1,1 @@
-# Coffee-Ordering-App
-
-Refer to [Robotic Barista](https://github.com/HKUST-MechFYDP-Robotics-Manipulation/Robotic-Barista.git)
+See [rosjava_core](https://github.com/rosjava/rosjava_core) readme.
